@@ -35,6 +35,7 @@ group :development, :test do
   gem 'capistrano', '3.16.0' # capistranoのツール一式
   gem 'capistrano-bundler'
   gem 'capistrano-rails'
+  gem 'capistrano-rbenv'
   gem 'capistrano3-unicorn'
   gem 'ed25519'
   gem 'bcrypt_pbkdf'
